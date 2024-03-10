@@ -9,10 +9,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.25",
+    "typescript": "^5.4.2"
+  },
   "dependencies": {
     "graphql-request": "^6.1.0"
-  },
-  "devDependencies": {
-    "typescript": "^5.4.2"
   }
 }
